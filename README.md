@@ -73,7 +73,7 @@ Para rodar o projeto localmente, você precisa ter:
 
 ## Créditos
 
-- Desenvolvido por [Seu Nome]
+- Desenvolvido por [Mateus Zdebski]
 
 ## Licença
 
